@@ -1,3 +1,3 @@
-module github.com/pipe01/plugin-requestid
+module github.com/fino-digital/plugin-requestid
 
 go 1.13
